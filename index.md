@@ -5,7 +5,6 @@ layout: home
 
 # Aiki's Website
 # Constant Wong W Coder
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -30,3 +29,5 @@ layout: home
     </script>
 </body>
 </html>
+
+![Constant Dog](dog.png)
